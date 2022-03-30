@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="285"/>
+  <unicode hex="00B4"/>
+  <anchor x="130" y="755" name="_top"/>
+  <outline>
+    <contour>
+      <point x="71" y="765" type="line"/>
+      <point x="84" y="753" type="line"/>
+      <point x="258" y="881" type="line"/>
+      <point x="258" y="887" type="line"/>
+      <point x="168" y="887" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w285m61,765l74,753l248,881l248,887l158,887</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 887 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

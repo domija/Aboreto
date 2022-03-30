@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="888"/>
+  <unicode hex="014C"/>
+  <unicode hex="014D"/>
+  <anchor x="444" y="765" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="macron" xOffset="260" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

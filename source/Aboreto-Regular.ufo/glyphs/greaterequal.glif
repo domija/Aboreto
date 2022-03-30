@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="2">
+  <advance width="582"/>
+  <unicode hex="2265"/>
+  <outline>
+    <component base="lessequal" xScale="-1" xOffset="582"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>|lessequal</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>com.fontlab.recipe</key>
+  <string>=lessequal@~,</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

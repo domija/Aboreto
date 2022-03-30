@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="814"/>
+  <unicode hex="00D0"/>
+  <unicode hex="00F0"/>
+  <anchor x="367" y="765" name="top"/>
+  <outline>
+    <component base="D"/>
+    <contour>
+      <point x="38" y="352" type="line"/>
+      <point x="372" y="352" type="line"/>
+      <point x="372" y="376" type="line"/>
+      <point x="38" y="376" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>D-92</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>D</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w814m28,352l362,352l362,376l28,376</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 24</string>
+          <string>hstem 352 24</string>
+          <string>hstem 676 24</string>
+          <string>vstem 130 68</string>
+          <string>vstem 658 76</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

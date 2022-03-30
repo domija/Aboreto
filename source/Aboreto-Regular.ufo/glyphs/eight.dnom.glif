@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.dnom" format="2">
+  <advance width="402"/>
+  <outline>
+    <component base="eight.superior" xOffset="2.21661e-14" yOffset="-362"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>zero.superior-4</string>
+  <key>com.fontlab.recipe</key>
+  <string>=eight.superior@,-10</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

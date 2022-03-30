@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.salt" format="2">
+  <advance width="236"/>
+  <anchor x="60" y="350" name="_right"/>
+  <outline>
+    <component base="dotaccent" yOffset="-474"/>
+  </outline>
+  <guideline angle="90" x="118" y="0"/>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w236</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 313 96</string>
+          <string>vstem 70 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

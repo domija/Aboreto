@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="2">
+  <advance width="586"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="164" y="-14" type="line"/>
+      <point x="378" y="5"/>
+      <point x="512" y="204"/>
+      <point x="512" y="421" type="curve" smooth="yes"/>
+      <point x="512" y="602"/>
+      <point x="422" y="714"/>
+      <point x="276" y="714" type="curve" smooth="yes"/>
+      <point x="148" y="714"/>
+      <point x="62" y="630"/>
+      <point x="62" y="505" type="curve" smooth="yes"/>
+      <point x="62" y="385"/>
+      <point x="139" y="305"/>
+      <point x="253" y="305" type="curve" smooth="yes"/>
+      <point x="297" y="305"/>
+      <point x="339" y="317"/>
+      <point x="383" y="342" type="curve"/>
+      <point x="374" y="358" type="line"/>
+      <point x="343" y="342"/>
+      <point x="309" y="333"/>
+      <point x="278" y="333" type="curve" smooth="yes"/>
+      <point x="191" y="333"/>
+      <point x="136" y="403"/>
+      <point x="136" y="513" type="curve" smooth="yes"/>
+      <point x="136" y="620"/>
+      <point x="192" y="690"/>
+      <point x="276" y="690" type="curve" smooth="yes"/>
+      <point x="375" y="690"/>
+      <point x="438" y="585"/>
+      <point x="438" y="416" type="curve" smooth="yes"/>
+      <point x="438" y="201"/>
+      <point x="332" y="25"/>
+      <point x="162" y="4" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="248" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|six</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|six </string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>361101ac63a2c2bf316b036f2f95e24768312483724ddc92bc4f852571ab75a5e2b518ced202d08130544f325f2b0e697b98e71e535c46c13c5dfcdedf940176</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 305 28</string>
+          <string>hstem 690 24</string>
+          <string>vstem 62 74</string>
+          <string>vstem 438 74</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

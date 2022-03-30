@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.tnum" format="2">
+  <advance width="616"/>
+  <guideline angle="90" x="492" y="0"/>
+  <guideline angle="90" x="0" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

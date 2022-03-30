@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="812"/>
+  <unicode hex="00D1"/>
+  <unicode hex="00F1"/>
+  <anchor x="406" y="0" name="bottom"/>
+  <anchor x="406" y="765" name="top"/>
+  <outline>
+    <component base="N" xOffset="-5"/>
+    <component base="tilde" xOffset="215" yOffset="-11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+tilde</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="2">
+  <advance width="438"/>
+  <unicode hex="201C"/>
+  <outline>
+    <component base="quotedblright" xScale="-1" yScale="-1" xOffset="438" yOffset="1181"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|quotedblright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|quotedblright</string>
+  <key>com.fontlab.recipe</key>
+  <string>=quotedblright@~,~471</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

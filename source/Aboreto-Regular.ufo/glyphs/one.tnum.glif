@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tnum" format="2">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="274" y="10" type="line"/>
+      <point x="342" y="10" type="line"/>
+      <point x="342" y="714" type="line"/>
+      <point x="322" y="714" type="line"/>
+      <point x="103" y="582" type="line"/>
+      <point x="111" y="566" type="line"/>
+      <point x="274" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="24" type="line"/>
+      <point x="103" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w582m274,10l342,10l342,714l322,714l103,582l111,566l274,642m103,0l500,0l500,24l103,24</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 24</string>
+          <string>hstem 714 -20</string>
+          <string>vstem 274 68</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

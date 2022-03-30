@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.inferior" format="2">
+  <advance width="434"/>
+  <unicode hex="2080"/>
+  <outline>
+    <component base="zero.superior" xOffset="2.63299e-14" yOffset="-430"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=zero.superior@,-78</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

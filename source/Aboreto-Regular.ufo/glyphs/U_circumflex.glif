@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="2">
+  <advance width="798"/>
+  <unicode hex="00DB"/>
+  <unicode hex="00FB"/>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="404" y="765" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="circumflex" xOffset="200" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+circumflex</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="632"/>
+  <unicode hex="0058"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="526" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="132" y="700" type="line"/>
+      <point x="52" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="312" y="341" type="line"/>
+      <point x="297" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="700" type="line"/>
+      <point x="328" y="397" type="line"/>
+      <point x="343" y="379" type="line"/>
+      <point x="586" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="323" type="line"/>
+      <point x="313" y="323" type="line"/>
+      <point x="313" y="331" type="line"/>
+      <point x="297" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="401" type="line"/>
+      <point x="342" y="401" type="line"/>
+      <point x="342" y="409" type="line"/>
+      <point x="326" y="409" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="7967"/>
+  <guideline angle="90" x="32" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>V</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4cb8d075998da225dd4ce396cce09f2af3e028e579bcbda355bceedda36d4b5ccd76230f43a66d70d45b3ca72cac824d3f5bb0b86113296d662fdc90f17d6335</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

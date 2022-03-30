@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.tnum" format="2">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="94" y="156" type="line"/>
+      <point x="498" y="156" type="line"/>
+      <point x="498" y="180" type="line"/>
+      <point x="94" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="262" type="line"/>
+      <point x="498" y="262" type="line"/>
+      <point x="498" y="286" type="line"/>
+      <point x="94" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="300" type="line"/>
+      <point x="563" y="700" type="line"/>
+      <point x="487" y="700" type="line"/>
+      <point x="317" y="324" type="line"/>
+      <point x="311" y="324" type="line"/>
+      <point x="96" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="260" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a21378a24c04c23c4796ca716b286733c5ee2d95e25812c6026c0315e4c732a3482588441aa06944549b5e9fca27aa7d6f7fa830e49069607172c129b28fd08e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 156 24</string>
+          <string>hstem 262 24</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 260 72</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

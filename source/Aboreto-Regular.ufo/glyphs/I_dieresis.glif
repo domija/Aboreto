@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="328"/>
+  <unicode hex="00CF"/>
+  <unicode hex="00EF"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="164" y="765" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-54" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+dieresis</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

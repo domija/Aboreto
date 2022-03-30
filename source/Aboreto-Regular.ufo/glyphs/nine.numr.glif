@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.numr" format="2">
+  <advance width="404"/>
+  <outline>
+    <component base="nine.superior" xOffset="4.89859e-15" yOffset="-80"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|six.superior</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|six.superior</string>
+  <key>com.fontlab.recipe</key>
+  <string>=nine.superior@,268</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

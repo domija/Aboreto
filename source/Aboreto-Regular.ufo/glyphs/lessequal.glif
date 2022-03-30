@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="582"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="minus" yOffset="-313"/>
+    <component base="less"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>plus</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

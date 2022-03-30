@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="480"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guillemotleft" xScale="-1" xOffset="480"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|guillemotleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|guillemotleft</string>
+  <key>com.fontlab.recipe</key>
+  <string>=guillemotleft@~,</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

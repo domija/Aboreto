@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="2">
+  <advance width="582"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="49" y="304" type="curve"/>
+      <point x="69" y="287" type="line"/>
+      <point x="110" y="332"/>
+      <point x="137" y="351"/>
+      <point x="178" y="351" type="curve" smooth="yes"/>
+      <point x="208" y="351"/>
+      <point x="236" y="341"/>
+      <point x="288" y="311" type="curve" smooth="yes"/>
+      <point x="340" y="282"/>
+      <point x="367" y="272"/>
+      <point x="398" y="272" type="curve" smooth="yes"/>
+      <point x="438" y="272"/>
+      <point x="482" y="289"/>
+      <point x="533" y="349" type="curve"/>
+      <point x="513" y="366" type="line"/>
+      <point x="472" y="321"/>
+      <point x="445" y="302"/>
+      <point x="404" y="302" type="curve" smooth="yes"/>
+      <point x="374" y="302"/>
+      <point x="346" y="312"/>
+      <point x="294" y="342" type="curve" smooth="yes"/>
+      <point x="242" y="371"/>
+      <point x="215" y="381"/>
+      <point x="184" y="381" type="curve" smooth="yes"/>
+      <point x="144" y="381"/>
+      <point x="100" y="364"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="284"/>
+  <guideline angle="0" x="0" y="327"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a1c9c1d215a9c0e02983021a2139658afda0938a70475263dd083e65e6d380fe817ff517027a729d68c48742bfeaf8872870742cff0a26c108af3bb8e51e6e72</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 272 30</string>
+          <string>hstem 351 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

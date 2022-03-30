@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+  <advance width="617"/>
+  <unicode hex="0042"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="292" y="0" type="line" smooth="yes"/>
+      <point x="453" y="0"/>
+      <point x="547" y="69.0753"/>
+      <point x="547" y="184.516" type="curve" smooth="yes"/>
+      <point x="547" y="283.871"/>
+      <point x="478" y="352"/>
+      <point x="364" y="367" type="curve"/>
+      <point x="364" y="373" type="line"/>
+      <point x="448.341" y="393"/>
+      <point x="497" y="450.763" name="hr01"/>
+      <point x="497" y="529.92" type="curve" smooth="yes"/>
+      <point x="497" y="636.888"/>
+      <point x="412.413" y="700"/>
+      <point x="268.965" y="700" type="curve" smooth="yes"/>
+      <point x="170" y="700" type="line"/>
+      <point x="170" y="676" type="line"/>
+      <point x="269.806" y="676" type="line" smooth="yes"/>
+      <point x="374.976" y="676"/>
+      <point x="427" y="626.714"/>
+      <point x="427" y="526" type="curve" smooth="yes"/>
+      <point x="427" y="425.286"/>
+      <point x="374.845" y="376"/>
+      <point x="269.405" y="376" type="curve" smooth="yes"/>
+      <point x="185" y="376" type="line"/>
+      <point x="185" y="352" type="line"/>
+      <point x="292" y="352" type="line" smooth="yes"/>
+      <point x="415" y="352"/>
+      <point x="475" y="298.276" name="hr02"/>
+      <point x="475" y="188" type="curve" smooth="yes"/>
+      <point x="475" y="78.6667"/>
+      <point x="415" y="24"/>
+      <point x="292" y="24" type="curve" smooth="yes"/>
+      <point x="165" y="24" type="line"/>
+      <point x="165" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="700" type="line"/>
+      <point x="130" y="700" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="130" y="0"/>
+  <guideline angle="0" x="0" y="536"/>
+  <guideline angle="90" x="292" y="0"/>
+  <guideline angle="0" x="0" y="198"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b11317bd5f951cb47c6ae44fe6812e8986d19fee79f87d149cc5712027f76a10d91498169431140b05590981200a3ff0556222665ebfc38d28dbc5c87dffa053</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 24</string>
+          <string>vstem 475 72</string>
+          <string>hstem 352 24</string>
+          <string>hstem 676 24</string>
+          <string>vstem 130 68</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 427 70</string>
+          <string>hstem 676 24</string>
+          <string>hstem 352 24</string>
+          <string>hstem 0 24</string>
+          <string>vstem 130 68</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 475 72</string>
+          <string>hstem 0 24</string>
+          <string>vstem 130 68</string>
+          <string>hstem 676 24</string>
+          <string>hstem 352 24</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

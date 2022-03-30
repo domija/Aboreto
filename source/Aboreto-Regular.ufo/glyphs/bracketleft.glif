@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="372"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="130" y="-68" type="line"/>
+      <point x="192" y="-68" type="line"/>
+      <point x="192" y="768" type="line"/>
+      <point x="130" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="-68" type="line"/>
+      <point x="317" y="-68" type="line"/>
+      <point x="317" y="-50" type="line"/>
+      <point x="146" y="-50" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="750" type="line"/>
+      <point x="317" y="750" type="line"/>
+      <point x="317" y="768" type="line"/>
+      <point x="146" y="768" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="770"/>
+  <guideline angle="0" x="0" y="-70"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w372m130,-68l192,-68l192,768l130,768m146,-68l317,-68l317,-50l146,-50m146,750l317,750l317,768l146,768</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -47 -21</string>
+          <string>hstem 768 -20</string>
+          <string>vstem 130 62</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

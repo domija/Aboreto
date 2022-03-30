@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+  <advance width="264"/>
+  <unicode hex="2019"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <component base="quotesinglbase" xOffset="-3.77191e-14" yOffset="616"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=quotesinglbase@,467</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

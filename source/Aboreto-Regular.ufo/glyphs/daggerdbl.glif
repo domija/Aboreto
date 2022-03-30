@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="472"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="270" y="347" type="line"/>
+      <point x="245" y="526" type="line"/>
+      <point x="227" y="526" type="line"/>
+      <point x="202" y="347" type="line"/>
+      <point x="227" y="168" type="line"/>
+      <point x="245" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="730" type="line"/>
+      <point x="227" y="526" type="line"/>
+      <point x="245" y="526" type="line"/>
+      <point x="270" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="518" type="line"/>
+      <point x="427" y="493" type="line"/>
+      <point x="427" y="561" type="line"/>
+      <point x="239" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="493" type="line"/>
+      <point x="233" y="518" type="line"/>
+      <point x="233" y="536" type="line"/>
+      <point x="45" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="-36" type="line"/>
+      <point x="270" y="-36" type="line"/>
+      <point x="245" y="168" type="line"/>
+      <point x="227" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="176" type="line"/>
+      <point x="239" y="158" type="line"/>
+      <point x="427" y="108" type="line"/>
+      <point x="427" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="176" type="line"/>
+      <point x="45" y="108" type="line"/>
+      <point x="233" y="158" type="line"/>
+      <point x="233" y="176" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="345"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>dagger</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>38691f4af90e605e98d3c454ba11fb59ecde6a9a8569e1c8e8d16639527aec5f7df772f5a3b5f9e26a96e29fdea71ace50824a186cf57ac0fc28b1c80493ddbf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -36 212</string>
+          <string>hstem 730 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

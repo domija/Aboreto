@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="2">
+  <advance width="574"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="349" y="303" type="line"/>
+      <point x="122" y="680" type="line"/>
+      <point x="45" y="680" type="line"/>
+      <point x="301" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="303" type="line"/>
+      <point x="319" y="303" type="line"/>
+      <point x="32" y="-125" type="line"/>
+      <point x="62" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="-145" type="line"/>
+      <point x="524" y="-145" type="line"/>
+      <point x="524" y="-85" type="line"/>
+      <point x="77" y="-85" type="line"/>
+      <point x="32" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="510" y="700" type="line"/>
+      <point x="45" y="700" type="line"/>
+      <point x="45" y="680" type="line"/>
+      <point x="122" y="680" type="line" smooth="yes"/>
+      <point x="133.111" y="680"/>
+      <point x="158.102" y="678.231"/>
+      <point x="197" y="675" type="curve" smooth="yes"/>
+      <point x="510" y="649" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-145"/>
+  <guideline angle="0" x="0" y="278"/>
+  <guideline angle="90" x="524" y="0"/>
+  <guideline angle="90" x="45" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>56bcff591e4ed3f9884dbbc4e6a99ea42b64de3beb60cffdc318024c5f1585de8ecd641aa4c62d0b7be8c5a6dea4bb90fa0ef660c1715ff133d926e387103f02</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -145 60</string>
+          <string>hstem 675 25</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

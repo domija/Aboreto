@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+  <advance width="1080"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="40" y="342" type="line"/>
+      <point x="1040" y="342" type="line"/>
+      <point x="1040" y="372" type="line"/>
+      <point x="40" y="372" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="357"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hyphen</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1080m40,342l1040,342l1040,372l40,372</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 342 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

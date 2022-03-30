@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nhookleft" format="2">
+  <advance width="780"/>
+  <unicode hex="019D"/>
+  <unicode hex="0272"/>
+  <outline>
+    <contour>
+      <point x="117.3" y="64.8" type="line" smooth="yes"/>
+      <point x="111.101" y="-112.473"/>
+      <point x="101.08" y="-175.832"/>
+      <point x="38" y="-221" type="curve"/>
+      <point x="40" y="-227" type="line"/>
+      <point x="148.83" y="-192.55"/>
+      <point x="186.744" y="-72.8848"/>
+      <point x="181.462" y="63.9487" type="curve" smooth="yes"/>
+      <point x="161" y="594" type="line"/>
+      <point x="167" y="594" type="line"/>
+      <point x="670" y="-14" type="line"/>
+      <point x="682" y="-14" type="line"/>
+      <point x="707" y="700" type="line"/>
+      <point x="639" y="700" type="line"/>
+      <point x="661" y="106" type="line"/>
+      <point x="655" y="106" type="line"/>
+      <point x="152" y="714" type="line"/>
+      <point x="140" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9d3befa1bb54fb10cb213fb6c95c93020bae329106b2ad974d5959e6f1c01147d205a236869c2d50120c96cdeed84aae8308f2d895254a12821d10f225a3a431</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 7 -21</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 714 -20</string>
+          <string>vstem 117.3 64.16</string>
+          <string>vstem 128.5 42.5</string>
+          <string>vstem 650 44.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

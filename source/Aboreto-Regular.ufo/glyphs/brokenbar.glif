@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="290"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="130" y="436" type="line"/>
+      <point x="160" y="436" type="line"/>
+      <point x="160" y="768" type="line"/>
+      <point x="130" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="264" type="line"/>
+      <point x="130" y="264" type="line"/>
+      <point x="130" y="-68" type="line"/>
+      <point x="160" y="-68" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="768"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w290m130,436l160,436l160,768l130,768m160,264l130,264l130,-68l160,-68</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -47 -21</string>
+          <string>hstem 768 -20</string>
+          <string>vstem 130 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

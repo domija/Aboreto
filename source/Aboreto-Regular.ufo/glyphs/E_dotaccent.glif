@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="518"/>
+  <unicode hex="0116"/>
+  <unicode hex="0117"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="280" y="765" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotaccent" xOffset="162" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

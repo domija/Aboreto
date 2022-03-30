@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="789"/>
+  <unicode hex="018F"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="384.321" y="-15" type="curve" smooth="yes"/>
+      <point x="575.242" y="-15"/>
+      <point x="719" y="144.346"/>
+      <point x="719" y="355.97" type="curve" smooth="yes"/>
+      <point x="719" y="569.36"/>
+      <point x="574.545" y="714"/>
+      <point x="360.428" y="714" type="curve" smooth="yes"/>
+      <point x="287.424" y="714"/>
+      <point x="186.727" y="698.724"/>
+      <point x="131" y="676" type="curve"/>
+      <point x="136" y="620" type="line"/>
+      <point x="142" y="620" type="line"/>
+      <point x="204.416" y="666.568"/>
+      <point x="283.762" y="690"/>
+      <point x="359.975" y="690" type="curve" smooth="yes"/>
+      <point x="535.108" y="690"/>
+      <point x="643" y="563.448"/>
+      <point x="643" y="355.97" type="curve" smooth="yes"/>
+      <point x="643" y="147.707"/>
+      <point x="538.576" y="9"/>
+      <point x="384.016" y="9" type="curve" smooth="yes"/>
+      <point x="234.181" y="9"/>
+      <point x="140" y="133.209"/>
+      <point x="140" y="334" type="curve" smooth="yes"/>
+      <point x="140" y="345" type="line"/>
+      <point x="64" y="345" type="line"/>
+      <point x="64" y="334.783" type="line" smooth="yes"/>
+      <point x="64" y="133.172"/>
+      <point x="199.691" y="-15"/>
+    </contour>
+    <contour>
+      <point x="107" y="321" type="line"/>
+      <point x="692" y="321" type="line"/>
+      <point x="692" y="345" type="line"/>
+      <point x="107" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>507244cb835eeb95f7f8b3d08fdfca05761e3c7179704766230470090d86245a2e6f034088edee9efe049f362e2a3fcfe6f08b8fcb4e886c012f8df29504a160</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -15 24</string>
+          <string>hstem 321 24</string>
+          <string>hstem 690 24</string>
+          <string>vstem 64 76</string>
+          <string>vstem 643 76</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

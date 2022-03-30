@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowNW" format="2">
+  <advance width="692"/>
+  <unicode hex="2196"/>
+  <outline>
+    <component base="arrowup" xScale="0.7071" xyScale="0.7071" yxScale="-0.7071" yScale="0.7071" xOffset="392" yOffset="-107"/>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

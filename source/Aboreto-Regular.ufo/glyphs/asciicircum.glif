@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+  <advance width="582"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="269" y="700" type="line"/>
+      <point x="71" y="313" type="line"/>
+      <point x="105" y="313" type="line"/>
+      <point x="290" y="678" type="line"/>
+      <point x="477" y="313" type="line"/>
+      <point x="511" y="313" type="line"/>
+      <point x="310" y="700" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="313"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w582m269,700l71,313l105,313l290,678l477,313l511,313l310,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 334 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="425"/>
+  <unicode hex="02DD"/>
+  <anchor x="190" y="755" name="_top"/>
+  <outline>
+    <contour>
+      <point x="71" y="765" type="line"/>
+      <point x="84" y="753" type="line"/>
+      <point x="238" y="883" type="line"/>
+      <point x="238" y="889" type="line"/>
+      <point x="157" y="889" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="765" type="line"/>
+      <point x="244" y="753" type="line"/>
+      <point x="398" y="883" type="line"/>
+      <point x="398" y="889" type="line"/>
+      <point x="317" y="889" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>acute</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>acute</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w425m71,765l84,753l238,883l238,889l157,889m231,765l244,753l398,883l398,889l317,889</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 889 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

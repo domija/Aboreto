@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="412"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="90" y="363" type="curve" smooth="yes"/>
+      <point x="90" y="295"/>
+      <point x="138" y="247"/>
+      <point x="206" y="247" type="curve" smooth="yes"/>
+      <point x="274" y="247"/>
+      <point x="322" y="295"/>
+      <point x="322" y="363" type="curve" smooth="yes"/>
+      <point x="322" y="431"/>
+      <point x="274" y="479"/>
+      <point x="206" y="479" type="curve" smooth="yes"/>
+      <point x="138" y="479"/>
+      <point x="90" y="431"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w412m90,363c90,295 138,247 206,247c274,247 322,295 322,363c322,431 274,479 206,479c138,479 90,431 90,363</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 247 232</string>
+          <string>vstem 90 232</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

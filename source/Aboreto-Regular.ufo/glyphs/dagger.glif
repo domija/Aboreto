@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+  <advance width="472"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="227" y="-47" type="line"/>
+      <point x="245" y="-47" type="line"/>
+      <point x="270" y="409" type="line"/>
+      <point x="244" y="526" type="line"/>
+      <point x="228" y="526" type="line"/>
+      <point x="202" y="409" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="730" type="line"/>
+      <point x="227" y="526" type="line"/>
+      <point x="245" y="526" type="line"/>
+      <point x="270" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="518" type="line"/>
+      <point x="427" y="493" type="line"/>
+      <point x="427" y="561" type="line"/>
+      <point x="239" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="493" type="line"/>
+      <point x="233" y="518" type="line"/>
+      <point x="233" y="536" type="line"/>
+      <point x="45" y="561" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="236" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7b48d2f9a679dc88c016e8fe0cc5a086c5f0e86ff061adbc8d8d6a5418ac69c08e8508b813b241415745735922599e5aa4ffd3d82c835ea0e0c2fe89e2c3cdd7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -26 -21</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 214.5 43</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

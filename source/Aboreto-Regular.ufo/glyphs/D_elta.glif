@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="659"/>
+  <unicode hex="0394"/>
+  <unicode hex="2206"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="301" y="646" type="line"/>
+      <point x="307" y="646" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="295" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="28" type="line"/>
+      <point x="61" y="28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w659m26,0l99,0l301,646l307,646l554,0l627,0l358,700l295,700m61,0l571,0l571,28l61,28</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 28</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

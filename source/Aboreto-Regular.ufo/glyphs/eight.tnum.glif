@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.tnum" format="2">
+  <advance width="582"/>
+  <outline>
+    <component base="eight" xOffset="-19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=56</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  <key>com.fontlab.recipe</key>
+  <string>=eight</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

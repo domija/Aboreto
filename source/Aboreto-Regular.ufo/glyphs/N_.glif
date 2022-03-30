@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="822"/>
+  <unicode hex="004E"/>
+  <unicode hex="006E"/>
+  <anchor x="411" y="0" name="bottom"/>
+  <anchor x="411" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="161" y="594" type="line"/>
+      <point x="167" y="594" type="line"/>
+      <point x="670" y="-14" type="line"/>
+      <point x="682" y="-14" type="line"/>
+      <point x="707" y="700" type="line"/>
+      <point x="639" y="700" type="line"/>
+      <point x="661" y="106" type="line"/>
+      <point x="655" y="106" type="line"/>
+      <point x="152" y="714" type="line"/>
+      <point x="140" y="714" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="116" y="0"/>
+  <guideline angle="90" x="706" y="0"/>
+  <guideline angle="90" x="411" y="0"/>
+  <guideline angle="0" x="0" y="280"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w822m115,0l183,0l161,594l167,594l670,-14l682,-14l707,700l639,700l661,106l655,106l152,714l140,714</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 7 -21</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 714 -20</string>
+          <string>vstem 127.5 44.5</string>
+          <string>vstem 650 44.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+  <advance width="400"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="34" y="348" type="line"/>
+      <point x="88" y="348" type="line"/>
+      <point x="182" y="669" type="line"/>
+      <point x="185" y="669" type="line"/>
+      <point x="312" y="348" type="line"/>
+      <point x="366" y="348" type="line"/>
+      <point x="224" y="700" type="line"/>
+      <point x="176" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="498" type="line"/>
+      <point x="268" y="498" type="line"/>
+      <point x="268" y="515" type="line"/>
+      <point x="120" y="515" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w400m34,348l88,348l182,669l185,669l312,348l366,348l224,700l176,700m120,498l268,498l268,515l120,515</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 369 -21</string>
+          <string>hstem 498 202</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

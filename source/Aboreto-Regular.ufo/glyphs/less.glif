@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="582"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="59" y="300" type="line"/>
+      <point x="523" y="107" type="line"/>
+      <point x="523" y="140" type="line"/>
+      <point x="97" y="316" type="line"/>
+      <point x="523" y="492" type="line"/>
+      <point x="523" y="525" type="line"/>
+      <point x="59" y="332" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="336"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>plus</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

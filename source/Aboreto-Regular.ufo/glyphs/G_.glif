@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="2">
+  <advance width="832"/>
+  <unicode hex="0047"/>
+  <unicode hex="0067"/>
+  <anchor x="471" y="0" name="bottom"/>
+  <anchor x="471" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="664" y="59" type="line"/>
+      <point x="732" y="84" type="line"/>
+      <point x="732" y="356" type="line"/>
+      <point x="664" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="104" type="line"/>
+      <point x="649" y="45"/>
+      <point x="568" y="10"/>
+      <point x="471" y="10" type="curve" smooth="yes"/>
+      <point x="283" y="10"/>
+      <point x="156" y="146"/>
+      <point x="156" y="350" type="curve" smooth="yes"/>
+      <point x="156" y="554"/>
+      <point x="283" y="690"/>
+      <point x="471" y="690" type="curve" smooth="yes"/>
+      <point x="555" y="690"/>
+      <point x="632" y="665"/>
+      <point x="686" y="619" type="curve"/>
+      <point x="692" y="619" type="line"/>
+      <point x="697" y="675" type="line"/>
+      <point x="643" y="698"/>
+      <point x="543" y="714"/>
+      <point x="471" y="714" type="curve" smooth="yes"/>
+      <point x="248" y="714"/>
+      <point x="80" y="557"/>
+      <point x="80" y="350" type="curve" smooth="yes"/>
+      <point x="80" y="143"/>
+      <point x="248" y="-14"/>
+      <point x="471" y="-14" type="curve" smooth="yes"/>
+      <point x="580" y="-14"/>
+      <point x="671" y="23"/>
+      <point x="732" y="84" type="curve"/>
+    </contour>
+    <contour>
+      <point x="674" y="356" type="line"/>
+      <point x="479" y="356" type="line"/>
+      <point x="479" y="332.089" type="line"/>
+      <point x="674" y="332.089" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="20" y="0"/>
+  <guideline angle="0" x="0" y="678"/>
+  <guideline angle="0" x="0" y="629"/>
+  <guideline angle="0" x="0" y="678"/>
+  <guideline angle="90" x="471" y="0"/>
+  <guideline angle="90" x="681" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H-30</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bcca0dc3c7ba9cfe5f7584afc77be14e2e8066d69a1657f85df542d9754b9c33d9c849ae477687db19b313fdbfd0ae4628eb1c8337d19ad0f8b403286ba6a94a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 24</string>
+          <string>hstem 332.09 23.91</string>
+          <string>hstem 690 24</string>
+          <string>vstem 80 76</string>
+          <string>vstem 664 68</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

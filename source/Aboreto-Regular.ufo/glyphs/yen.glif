@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="617"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <component base="Y"/>
+    <contour>
+      <point x="102" y="156" type="line"/>
+      <point x="506" y="156" type="line"/>
+      <point x="506" y="180" type="line"/>
+      <point x="102" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="262" type="line"/>
+      <point x="506" y="262" type="line"/>
+      <point x="506" y="286" type="line"/>
+      <point x="102" y="286" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="304" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Y</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w617m102,156l506,156l506,180l102,180m102,262l506,262l506,286l102,286</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 156 24</string>
+          <string>hstem 262 24</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 280 72</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

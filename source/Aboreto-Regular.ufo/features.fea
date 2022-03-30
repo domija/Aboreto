@@ -1,0 +1,354 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn FLE;
+languagesystem latn MOL;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn TRK;
+languagesystem grek dflt;
+#< languagesystem
+
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature locl;
+  feature numr;
+  feature dnom;
+  feature sups;
+  feature subs;
+  feature sinf;
+  feature pnum;
+  feature tnum;
+  feature ordn;
+  feature salt;
+
+#< feature
+} aalt;
+feature locl {
+# Localized Forms
+
+#> feature
+  script latn; # Latin
+
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+
+  language TRK; # Turkish
+  sub i by Idotaccent;
+
+  language NLD; # Dutch
+  sub I J by IJ;
+  sub Iacute J by IJ_acute;
+
+  language FLE; # Flemish
+  sub I J by IJ;
+  sub Iacute J by IJ_acute;
+
+#< feature
+} locl;
+
+
+
+
+feature frac {
+# Fractions
+
+#> feature
+
+# Arbitrary fractions (based on opentypecookbook.com)
+
+@frac_figs = [eight five four nine one seven six three two zero];
+@frac_numr = [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+@frac_dnom = [eight.dnom five.dnom four.dnom nine.dnom one.dnom seven.dnom six.dnom three.dnom two.dnom zero.dnom];
+
+lookup frac_bar {
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs slash';
+  ignore sub slash' @frac_figs slash;
+  ignore sub slash slash';
+  ignore sub slash' slash;
+  sub @frac_figs slash' @frac_figs by fraction;
+} frac_bar;
+
+lookup frac_numr1 {
+  sub @frac_figs' fraction by @frac_numr;
+} frac_numr1;
+
+lookup frac_numr2 {
+  sub @frac_figs' @frac_numr fraction by @frac_numr;
+} frac_numr2;
+
+lookup frac_numr3 {
+  sub @frac_figs' @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr3;
+
+lookup frac_numr4 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr4;
+
+lookup frac_numr5 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr5;
+
+lookup frac_numr6 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr6;
+
+lookup frac_numr7 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr7;
+
+lookup frac_numr8 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr8;
+
+lookup frac_numr9 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr9;
+
+lookup frac_numr10 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr10;
+
+lookup frac_dnom {
+  sub [fraction @frac_dnom] @frac_figs' by @frac_dnom;
+} frac_dnom;
+
+#< feature
+} frac;
+
+
+
+
+feature numr {
+# Numerator
+
+#> feature
+  sub eight by eight.numr;
+  sub five by five.numr;
+  sub four by four.numr;
+  sub nine by nine.numr;
+  sub one by one.numr;
+  sub seven by seven.numr;
+  sub six by six.numr;
+  sub three by three.numr;
+  sub two by two.numr;
+  sub zero by zero.numr;
+#< feature
+} numr;
+
+
+
+
+feature dnom {
+# Denominator
+
+#> feature
+  sub eight by eight.dnom;
+  sub five by five.dnom;
+  sub four by four.dnom;
+  sub nine by nine.dnom;
+  sub one by one.dnom;
+  sub seven by seven.dnom;
+  sub six by six.dnom;
+  sub three by three.dnom;
+  sub two by two.dnom;
+  sub zero by zero.dnom;
+#< feature
+} dnom;
+
+
+
+feature sups {
+# Superscript
+
+#> feature
+  sub eight by eight.superior;
+  sub five by five.superior;
+  sub four by four.superior;
+  sub nine by nine.superior;
+  sub one by one.superior;
+  sub seven by seven.superior;
+  sub six by six.superior;
+  sub three by three.superior;
+  sub two by two.superior;
+  sub zero by zero.superior;
+#< feature
+} sups;
+
+
+
+
+feature subs {
+# Subscript
+
+#> feature
+  sub eight by eight.inferior;
+  sub five by five.inferior;
+  sub four by four.inferior;
+  sub nine by nine.inferior;
+  sub one by one.inferior;
+  sub seven by seven.inferior;
+  sub six by six.inferior;
+  sub three by three.inferior;
+  sub two by two.inferior;
+  sub zero by zero.inferior;
+#< feature
+} subs;
+
+
+
+
+feature sinf {
+# Scientific Inferiors
+
+#> feature
+  sub eight by eight.inferior;
+  sub five by five.inferior;
+  sub four by four.inferior;
+  sub nine by nine.inferior;
+  sub one by one.inferior;
+  sub seven by seven.inferior;
+  sub six by six.inferior;
+  sub three by three.inferior;
+  sub two by two.inferior;
+  sub zero by zero.inferior;
+#< feature
+} sinf;
+
+
+
+
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub Euro.tnum by Euro;
+  sub cent.tnum by cent;
+  sub dollar.tnum by dollar;
+  sub eight.tnum by eight;
+  sub five.tnum by five;
+  sub florin.tnum by florin;
+  sub four.tnum by four;
+  sub nine.tnum by nine;
+  sub numbersign.tnum by numbersign;
+  sub one.tnum by one;
+  sub seven.tnum by seven;
+  sub six.tnum by six;
+  sub sterling.tnum by sterling;
+  sub three.tnum by three;
+  sub turkishlira.tnum by turkishlira;
+  sub two.tnum by two;
+  sub yen.tnum by yen;
+  sub zero.tnum by zero;
+#< feature
+} pnum;
+
+
+
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub Euro by Euro.tnum;
+  sub cent by cent.tnum;
+  sub dollar by dollar.tnum;
+  sub eight by eight.tnum;
+  sub five by five.tnum;
+  sub florin by florin.tnum;
+  sub four by four.tnum;
+  sub nine by nine.tnum;
+  sub numbersign by numbersign.tnum;
+  sub one by one.tnum;
+  sub seven by seven.tnum;
+  sub six by six.tnum;
+  sub sterling by sterling.tnum;
+  sub three by three.tnum;
+  sub turkishlira by turkishlira.tnum;
+  sub two by two.tnum;
+  sub yen by yen.tnum;
+  sub zero by zero.tnum;
+#< feature
+} tnum;
+
+
+
+feature ordn {
+# Ordinals
+
+#> feature
+	sub [zero one two three four five six seven eight nine] [A]' by ordfeminine;
+ 	sub [zero one two three four five six seven eight nine] [O]' by ordmasculine;
+	sub A by ordfeminine;
+	sub O by ordmasculine;
+
+#< feature
+} ordn;
+
+
+
+
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub caron from [caron.salt];
+  sub dotaccent from [dotaccent.salt];
+#< feature
+} salt;
+
+
+
+
+feature calt {
+# Contextual Alternates
+
+	sub [hyphen endash emdash] greater by arrowright;
+	sub less [hyphen endash emdash] by arrowleft;
+	sub asciicircum [hyphen endash emdash] by arrowdown;
+	sub [hyphen endash emdash] asciicircum by arrowup;
+	sub less slash by arrowSW;
+	sub slash greater by arrowNE;
+	sub less backslash by arrowNW;
+	sub backslash greater by arrowSE;
+
+	sub parenleft R parenright by registered;
+	sub parenleft C parenright by copyright;
+	sub parenleft P parenright by soundcopyright;
+	sub parenleft T M parenright by trademark;
+
+	sub period period period by ellipsis;
+	sub hyphen hyphen by endash;
+	sub hyphen hyphen hyphen by emdash;
+	
+	sub L' periodcentered' L by Ldot; 
+
+#> feature
+#< feature
+} calt;
+
+

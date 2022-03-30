@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="408"/>
+  <unicode hex="02C7"/>
+  <anchor x="204" y="755" name="_top"/>
+  <outline>
+    <contour>
+      <point x="191" y="765" type="line"/>
+      <point x="217" y="765" type="line"/>
+      <point x="338" y="895" type="line"/>
+      <point x="325" y="907" type="line"/>
+      <point x="204" y="827" type="line"/>
+      <point x="83" y="907" type="line"/>
+      <point x="70" y="895" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="907"/>
+  <guideline angle="0" x="0" y="895"/>
+  <guideline angle="90" x="204" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w408m191,765l217,765l338,895l325,907l204,827l83,907l70,895</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 786 -21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

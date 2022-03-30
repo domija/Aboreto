@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="368"/>
+  <unicode hex="00AF"/>
+  <anchor x="184" y="755" name="_top"/>
+  <outline>
+    <contour>
+      <point x="50" y="808" type="line"/>
+      <point x="318" y="808" type="line"/>
+      <point x="318" y="848" type="line"/>
+      <point x="50" y="848" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="184" y="0"/>
+  <guideline angle="0" x="0" y="836"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w368m50,808l318,808l318,848l50,848</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 808 40</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

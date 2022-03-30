@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.superior" format="2">
+  <advance width="396"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="40" y="477" type="line"/>
+      <point x="356" y="477" type="line"/>
+      <point x="356" y="497" type="line"/>
+      <point x="64" y="497" type="line"/>
+      <point x="226" y="780" type="line"/>
+      <point x="164" y="780" type="line"/>
+      <point x="40" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="362" type="line"/>
+      <point x="281" y="362" type="line"/>
+      <point x="281" y="642" type="line"/>
+      <point x="231" y="642" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="362"/>
+  <guideline angle="0" x="0" y="780"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>four</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w396m29,477l345,477l345,497l53,497l215,780l153,780l29,493m220,362l270,362l270,642l220,642</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 383 -21</string>
+          <string>hstem 477 20</string>
+          <string>hstem 780 -20</string>
+          <string>vstem 231 50</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

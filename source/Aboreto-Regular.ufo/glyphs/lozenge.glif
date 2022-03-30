@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="573"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="515" y="350" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="478" y="350" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="95" y="350" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="58" y="350" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w573m305,0l515,350l305,700l268,700l478,350l268,0m268,0l305,0l95,350l305,700l268,700l58,350</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

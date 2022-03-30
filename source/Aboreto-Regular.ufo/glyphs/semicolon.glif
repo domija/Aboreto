@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="264"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma" xOffset="-3"/>
+    <component base="period" xOffset="-4" yOffset="398"/>
+  </outline>
+  <guideline angle="90" x="76" y="0"/>
+  <guideline angle="90" x="128" y="0"/>
+  <guideline angle="90" x="180" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>comma-3</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>colon</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

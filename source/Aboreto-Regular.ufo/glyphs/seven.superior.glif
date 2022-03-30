@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.superior" format="2">
+  <advance width="357"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="42" y="734" type="line"/>
+      <point x="277" y="734" type="line"/>
+      <point x="92" y="362" type="line"/>
+      <point x="144" y="362" type="line"/>
+      <point x="311" y="764" type="line"/>
+      <point x="311" y="780" type="line"/>
+      <point x="42" y="780" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="362"/>
+  <guideline angle="0" x="0" y="780"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>seven</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w357m42,734l277,734l92,362l144,362l311,764l311,780l42,780</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 383 -21</string>
+          <string>hstem 734 46</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

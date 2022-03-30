@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>C</key>
+  <string>C_.glif</string>
+  <key>E</key>
+  <string>E_.glif</string>
+  <key>Eng</key>
+  <string>E_ng.glif</string>
+  <key>Euro</key>
+  <string>E_uro.glif</string>
+  <key>Euro.tnum</key>
+  <string>E_uro.tnum.glif</string>
+  <key>F</key>
+  <string>F_.glif</string>
+  <key>G</key>
+  <string>G_.glif</string>
+  <key>Germandbls</key>
+  <string>G_ermandbls.glif</string>
+  <key>J</key>
+  <string>J_.glif</string>
+  <key>L</key>
+  <string>L_.glif</string>
+  <key>O</key>
+  <string>O_.glif</string>
+  <key>OE</key>
+  <string>O_E_.glif</string>
+  <key>R</key>
+  <string>R_.glif</string>
+  <key>S</key>
+  <string>S_.glif</string>
+  <key>T</key>
+  <string>T_.glif</string>
+  <key>Uogonek</key>
+  <string>U_ogonek.glif</string>
+  <key>W</key>
+  <string>W_.glif</string>
+  <key>Z</key>
+  <string>Z_.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
+  <key>eight.tnum</key>
+  <string>eight.tnum.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
+  <key>summation</key>
+  <string>summation.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
+  <key>two.tnum</key>
+  <string>two.tnum.glif</string>
+</dict>
+</plist>

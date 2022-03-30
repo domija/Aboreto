@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="582"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="59" y="313" type="line"/>
+      <point x="523" y="313" type="line"/>
+      <point x="523" y="343" type="line"/>
+      <point x="59" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="112" type="line"/>
+      <point x="523" y="326" type="line"/>
+      <point x="491" y="326" type="line"/>
+      <point x="491" y="112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>plus</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>plus</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w582m59,313l523,313l523,343l59,343m523,112l523,326l491,326l491,112</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 133 -21</string>
+          <string>hstem 313 30</string>
+          <string>vstem 491 32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

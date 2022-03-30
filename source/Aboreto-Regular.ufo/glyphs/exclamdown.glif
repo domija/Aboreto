@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="330"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" xScale="-1" yScale="-1" xOffset="330" yOffset="700"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>exclam</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>exclam</string>
+  <key>com.fontlab.recipe</key>
+  <string>=exclam@~,~ 0</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

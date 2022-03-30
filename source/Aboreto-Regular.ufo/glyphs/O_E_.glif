@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="933"/>
+  <unicode hex="0152"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="E" xOffset="415"/>
+    <contour>
+      <point x="80" y="350" type="curve" smooth="yes"/>
+      <point x="80" y="142.634"/>
+      <point x="236.45" y="-10" name="hr01"/>
+      <point x="449" y="-10" type="curve" smooth="yes"/>
+      <point x="495" y="-10"/>
+      <point x="546" y="-2.7083"/>
+      <point x="593" y="11" type="curve"/>
+      <point x="589" y="30" type="line"/>
+      <point x="542.226" y="18.7742"/>
+      <point x="492.667" y="12"/>
+      <point x="452" y="12" type="curve" smooth="yes"/>
+      <point x="271.535" y="12"/>
+      <point x="156" y="143.634"/>
+      <point x="156" y="350" type="curve" smooth="yes"/>
+      <point x="156" y="555.557"/>
+      <point x="272.115" y="688" name="hr02"/>
+      <point x="452" y="688" type="curve" smooth="yes"/>
+      <point x="492.667" y="688"/>
+      <point x="542.226" y="681.226"/>
+      <point x="589" y="670" type="curve"/>
+      <point x="593" y="689" type="line"/>
+      <point x="546" y="702.708"/>
+      <point x="495" y="710"/>
+      <point x="449" y="710" type="curve" smooth="yes"/>
+      <point x="236.45" y="710"/>
+      <point x="80" y="557.366"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="452" y="0"/>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dc62306318830f1560bb1ea866d684a927e9971ff89672463dd27c271366c89d1ad8b1b8a93e5996066e390bd0731c4dfd8ec5d4218e23e7740f342923a0eb39</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 347 36</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 80 76</string>
+          <string>vstem 545 68</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 22</string>
+          <string>hstem 347 36</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 545 68</string>
+          <string>vstem 80 76</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 688 22</string>
+          <string>hstem 347 36</string>
+          <string>hstem 21 -21</string>
+          <string>vstem 545 68</string>
+          <string>vstem 80 76</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

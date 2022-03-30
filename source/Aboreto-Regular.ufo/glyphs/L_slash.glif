@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="461"/>
+  <unicode hex="0141"/>
+  <unicode hex="0142"/>
+  <anchor x="277" y="-14" name="bottom"/>
+  <anchor x="280" y="350" name="right"/>
+  <anchor x="164" y="765" name="top"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="46" y="309" type="line"/>
+      <point x="162" y="351" type="line"/>
+      <point x="154" y="374" type="line"/>
+      <point x="38" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="356" type="line"/>
+      <point x="347" y="413" type="line"/>
+      <point x="339" y="436" type="line"/>
+      <point x="181" y="379" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="424" y="0"/>
+  <guideline angle="90" x="424" y="0"/>
+  <guideline angle="90" x="38" y="0"/>
+  <guideline angle="90" x="372" y="0"/>
+  <guideline angle="0" x="0" y="350"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L-92</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w461m46,309l162,351l154,374l38,332m189,356l347,413l339,436l181,379</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 130 68</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
