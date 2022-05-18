@@ -2,7 +2,7 @@
 <glyph name="seven.numr" format="2">
   <advance width="357"/>
   <outline>
-    <component base="seven.superior" xOffset="4.89859e-15" yOffset="-80"/>
+    <component base="seven.superior" yOffset="-80"/>
   </outline>
   <lib>
   <dict>

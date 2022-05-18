@@ -15,10 +15,10 @@
       <point x="424" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="211" y="278" type="line"/>
-      <point x="459" y="278" type="line"/>
-      <point x="459" y="302" type="line"/>
-      <point x="211" y="302" type="line"/>
+      <point x="211" y="298" type="line"/>
+      <point x="459" y="298" type="line"/>
+      <point x="459" y="322" type="line"/>
+      <point x="211" y="322" type="line"/>
     </contour>
     <contour>
       <point x="485" y="355" type="line"/>
@@ -79,14 +79,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>25e1588e6437ad111c3324080ddcfa69db0a54749e5a294109f1027bc096bf3f3e565a712bac29e6fbd802691e3cccb7dd936b1f86f3b25afadad0e9c339f290</string>
+    <string>1d964ae6f1053783a7abc63153864ef37181cc51bf5fcb7fb1de948d25a30ccaa0f77b645f63ab57b8ab8fbcb120c4ca50af3e7215499e69058e8802bc2fc8e6</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 278 24</string>
+          <string>hstem 298 24</string>
           <string>hstem 347 36</string>
           <string>hstem 700 -20</string>
           <string>vstem 427 68</string>

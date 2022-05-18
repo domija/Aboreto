@@ -2,7 +2,7 @@
 <glyph name="zero.dnom" format="2">
   <advance width="434"/>
   <outline>
-    <component base="zero.superior" xOffset="2.21661e-14" yOffset="-362"/>
+    <component base="zero.superior" yOffset="-362"/>
   </outline>
   <lib>
   <dict>

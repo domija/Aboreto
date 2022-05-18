@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright 2022 The Aboreto Project Authors</string>
+  <string>Copyright 2022 The Aboreto Project Authors (https://github.com/domija/Aboreto)</string>
   <key>descender</key>
   <integer>-270</integer>
   <key>familyName</key>
@@ -67,9 +67,9 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://www.behance.net/dominikjagcc76</string>
   <key>openTypeNameLicense</key>
-  <string>OFL 1.1</string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
-  <string>https://scripts.sil.org/OFL_web</string>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>Dominik J&#xe1;ger</string>
   <key>openTypeNamePreferredFamilyName</key>
