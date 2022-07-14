@@ -6,9 +6,16 @@ Aboreto has vertical stress, a feature more typical of later-century typefaces. 
 
 Aboreto comes in one weight – a high contrast regular that is on the thinner side.
 
-![img1](documentation/Aboreto_Specimen.png)
+![img1](documentation/Aboreto_Specimen_1.png)
 
-![img2](documentation/Aboreto_Specimen2.png)
+![img2](documentation/Aboreto_Specimen_2.png)
+
+![img3](documentation/Aboreto_Specimen_3.png)
+
+![img4](documentation/Aboreto_Specimen_4.png)
+
+![img5](documentation/Aboreto_Specimen_5.png)
+
 
 ## OpenType features
 
