@@ -1,4 +1,4 @@
-# Aboreto
+y# Aboreto
 
 Aboreto is a display typeface based on early renaissance majuscule alphabet done by Luca della Robbia, a 15th century Florentine sculptor. The typeface is not a straightforward digitalization (it even couldn’t be as the early Latin alphabet didn’t include all the letters we use today) but more of a revival which keeps current needs and technologies in mind.
 
